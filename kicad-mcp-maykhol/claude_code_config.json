@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "kicad-maykhol": {
+      "command": "C:\\Program Files\\KiCad\\9.0\\bin\\python.exe",
+      "args": ["C:\\Users\\DELL\\kicad-mcp\\server.py"],
+      "env": {}
+    }
+  }
+}
